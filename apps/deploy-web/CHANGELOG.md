@@ -1,5 +1,12 @@
 
 
+## [2.77.0](https://github.com/domhhv/akash-network-console/compare/console-web/v2.76.0...console-web/v2.77.0) (2025-05-22)
+
+
+### Features
+
+* **contact-point:** implements list endpoint and auth ([0f11115](https://github.com/domhhv/akash-network-console/commit/0f11115622a6cf58623f33e35902e4814793d9a8))
+
 ## [2.76.0](https://github.com/akash-network/console/compare/console-web/v2.75.0...console-web/v2.76.0) (2025-05-22)
 
 
