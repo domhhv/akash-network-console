@@ -1,5 +1,12 @@
 
 
+## [2.118.1](https://github.com/akash-network/console/compare/console-web/v2.118.0...console-web/v2.118.1) (2025-10-23)
+
+
+### Bug Fixes
+
+* name and right button link to deployment page, not the whole line ([3ea1f04](https://github.com/akash-network/console/commit/3ea1f0433cac42d13ce80d5c8e092519da423963)), closes [#1981](https://github.com/akash-network/console/issues/1981)
+
 ## [2.118.0](https://github.com/akash-network/console/compare/console-web/v2.117.0...console-web/v2.118.0) (2025-10-21)
 
 
